@@ -24,6 +24,9 @@ python -m ter.run
 python -m ter.run --interval 0.5 --output-fps 30 --display-fps 20
 ```
 
+You can then quit recording by pressing `Q` or `ESC` in the monitoring window or simply terminate the process with 
+`CMD + C`. The output video file would be saved at current working directory with prefix `video` and format `mp4`.
+
 Arguments:
 
 ```bash
@@ -33,4 +36,4 @@ Arguments:
 --display-fps The frames per second in display window. Default: 5
 ```
 
-The output video file would be saved at the working directory with prefix `video` and format `mp4`.
+Please feel free to open issue if you have any question!
