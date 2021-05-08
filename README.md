@@ -1,12 +1,15 @@
 
-# Time-elapse Recorder: Record time elapse video with web camera!
+# Time-elapse Recorder: Record time-elapse video with computer camera!
 ***PENG Zhenghao***
 
 <img align=center width=256px  src="ter/fig.png" />
 
 *The interface monitoring the recording.*
 
-**This script is tested in my mac and it works well!**
+This script allows you to record time-elapse video with computer camera! For example, you can easily generate a 30 
+seconds video recoding 1 hours of image via your computer camera. In that case, the script will capture the 
+images each 4 seconds and form the video with totally 30(fps)*30(seconds)=900 snapshots.
+**This script is tested in my mac and it works well!** The memory, disk and CPU consumption is quite low.
 
 Installation and Usage:
 
