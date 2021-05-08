@@ -2,7 +2,8 @@
 # Time-elapse Recorder: Record time elapse video with web camera!
 ***PENG Zhenghao***
 
-![](ter/fig.png)
+<img align=center width=256px  src="ter/fig.png" />
+
 *The interface monitoring the recording.*
 
 **This script is tested in my mac and it works well!**
