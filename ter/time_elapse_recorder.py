@@ -64,7 +64,7 @@ class RecordThread:
 
 
 class TimeElapseRecorder:
-    def __init__(self, interval=1, output_fps=30, display_fps=10):
+    def __init__(self, interval=1, output_fps=30, display_fps=5):
         # Setup camera
         cap = cv2.VideoCapture(0)  # Capture video from camera
         cap.set(cv2.CAP_PROP_BUFFERSIZE, 2)

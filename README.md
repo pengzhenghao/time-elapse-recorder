@@ -24,7 +24,7 @@ Arguments:
 -h, --help    Show this help message and exit
 --interval    Interval between two frames, in second. Default: 1
 --output-fps  The frames per second in the output video file. Default: 30
---display-fps The frames per second in display window. Default: 10.
+--display-fps The frames per second in display window. Default: 5
 ```
 
 The output video file would be saved at the working directory with prefix `video` and format `mp4`.
